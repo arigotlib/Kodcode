@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_kodcode2\\visual studio\\Lerning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{904A43AD-6397-4CD5-9A25-D2E9740352EA}|..\\TameClack\\TameClack.csproj|c:\\_kodcode2\\visual studio\\tameclack\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00CB217-C754-4FB0-8F8E-956452686904}|Lernung.csproj|C:\\_kodcode2\\visual studio\\Lerning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00CB217-C754-4FB0-8F8E-956452686904}|Lernung.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A43AD-6397-4CD5-9A25-D2E9740352EA}|..\\TameClack\\TameClack.csproj|c:\\_kodcode2\\visual studio\\tameclack\\lurning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A43AD-6397-4CD5-9A25-D2E9740352EA}|..\\TameClack\\TameClack.csproj|c:\\_kodcode2\\visual studio\\tameclack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\_kodcode2\\visual studio\\TameClack\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TameClack\\Program.cs",
+              "ToolTip": "C:\\_kodcode2\\visual studio\\TameClack\\Program.cs",
+              "RelativeToolTip": "..\\TameClack\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:08:30.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\_kodcode2\\visual studio\\TameClack\\DBConnection.cs",
+              "RelativeDocumentMoniker": "..\\TameClack\\DBConnection.cs",
+              "ToolTip": "C:\\_kodcode2\\visual studio\\TameClack\\DBConnection.cs*",
+              "RelativeToolTip": "..\\TameClack\\DBConnection.cs*",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:01:50.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lurning.cs",
+              "DocumentMoniker": "C:\\_kodcode2\\visual studio\\TameClack\\lurning.cs",
+              "RelativeDocumentMoniker": "..\\TameClack\\lurning.cs",
+              "ToolTip": "C:\\_kodcode2\\visual studio\\TameClack\\lurning.cs",
+              "RelativeToolTip": "..\\TameClack\\lurning.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:43:55.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\_kodcode2\\visual studio\\Lerning\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\_kodcode2\\visual studio\\Lerning\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T22:19:45.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

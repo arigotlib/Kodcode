@@ -1,0 +1,20 @@
+C:\_kodcode2\Dinae Amood Beshabat\bin\Debug\Dinae Amood Beshabat.exe.config
+C:\_kodcode2\Dinae Amood Beshabat\bin\Debug\Dinae Amood Beshabat.exe
+C:\_kodcode2\Dinae Amood Beshabat\bin\Debug\Dinae Amood Beshabat.pdb
+C:\_kodcode2\Dinae Amood Beshabat\obj\Debug\Dinae Amood Beshabat.csproj.AssemblyReference.cache
+C:\_kodcode2\Dinae Amood Beshabat\obj\Debug\Dinae_Amood_Beshabat.Form1.resources
+C:\_kodcode2\Dinae Amood Beshabat\obj\Debug\Dinae_Amood_Beshabat.Properties.Resources.resources
+C:\_kodcode2\Dinae Amood Beshabat\obj\Debug\Dinae Amood Beshabat.csproj.GenerateResource.cache
+C:\_kodcode2\Dinae Amood Beshabat\obj\Debug\Dinae Amood Beshabat.csproj.CoreCompileInputs.cache
+C:\_kodcode2\Dinae Amood Beshabat\obj\Debug\Dinae Amood Beshabat.exe
+C:\_kodcode2\Dinae Amood Beshabat\obj\Debug\Dinae Amood Beshabat.pdb
+C:\_kodcode2\visual studio\Dinae Amood Beshabat\bin\Debug\Dinae Amood Beshabat.exe.config
+C:\_kodcode2\visual studio\Dinae Amood Beshabat\bin\Debug\Dinae Amood Beshabat.exe
+C:\_kodcode2\visual studio\Dinae Amood Beshabat\bin\Debug\Dinae Amood Beshabat.pdb
+C:\_kodcode2\visual studio\Dinae Amood Beshabat\obj\Debug\Dinae Amood Beshabat.csproj.AssemblyReference.cache
+C:\_kodcode2\visual studio\Dinae Amood Beshabat\obj\Debug\Dinae_Amood_Beshabat.Form1.resources
+C:\_kodcode2\visual studio\Dinae Amood Beshabat\obj\Debug\Dinae_Amood_Beshabat.Properties.Resources.resources
+C:\_kodcode2\visual studio\Dinae Amood Beshabat\obj\Debug\Dinae Amood Beshabat.csproj.GenerateResource.cache
+C:\_kodcode2\visual studio\Dinae Amood Beshabat\obj\Debug\Dinae Amood Beshabat.csproj.CoreCompileInputs.cache
+C:\_kodcode2\visual studio\Dinae Amood Beshabat\obj\Debug\Dinae Amood Beshabat.exe
+C:\_kodcode2\visual studio\Dinae Amood Beshabat\obj\Debug\Dinae Amood Beshabat.pdb

@@ -1,0 +1,14 @@
+C:\_kodcode2\Riposetori\Lerning\Xml first project\bin\Debug\net8.0\Xml first project.exe
+C:\_kodcode2\Riposetori\Lerning\Xml first project\bin\Debug\net8.0\Xml first project.deps.json
+C:\_kodcode2\Riposetori\Lerning\Xml first project\bin\Debug\net8.0\Xml first project.runtimeconfig.json
+C:\_kodcode2\Riposetori\Lerning\Xml first project\bin\Debug\net8.0\Xml first project.dll
+C:\_kodcode2\Riposetori\Lerning\Xml first project\bin\Debug\net8.0\Xml first project.pdb
+C:\_kodcode2\Riposetori\Lerning\Xml first project\obj\Debug\net8.0\Xml first project.GeneratedMSBuildEditorConfig.editorconfig
+C:\_kodcode2\Riposetori\Lerning\Xml first project\obj\Debug\net8.0\Xml first project.AssemblyInfoInputs.cache
+C:\_kodcode2\Riposetori\Lerning\Xml first project\obj\Debug\net8.0\Xml first project.AssemblyInfo.cs
+C:\_kodcode2\Riposetori\Lerning\Xml first project\obj\Debug\net8.0\Xml first project.csproj.CoreCompileInputs.cache
+C:\_kodcode2\Riposetori\Lerning\Xml first project\obj\Debug\net8.0\Xml first project.dll
+C:\_kodcode2\Riposetori\Lerning\Xml first project\obj\Debug\net8.0\refint\Xml first project.dll
+C:\_kodcode2\Riposetori\Lerning\Xml first project\obj\Debug\net8.0\Xml first project.pdb
+C:\_kodcode2\Riposetori\Lerning\Xml first project\obj\Debug\net8.0\Xml first project.genruntimeconfig.cache
+C:\_kodcode2\Riposetori\Lerning\Xml first project\obj\Debug\net8.0\ref\Xml first project.dll

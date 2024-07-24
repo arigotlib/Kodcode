@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_kodcode2\\visual studio\\Oreach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{770354D3-6F26-4A56-9E14-5AE8AF6E7D4D}|Oreach.csproj|c:\\_kodcode2\\visual studio\\oreach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{770354D3-6F26-4A56-9E14-5AE8AF6E7D4D}|Oreach.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770354D3-6F26-4A56-9E14-5AE8AF6E7D4D}|Oreach.csproj|C:\\_kodcode2\\visual studio\\Oreach\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770354D3-6F26-4A56-9E14-5AE8AF6E7D4D}|Oreach.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770354D3-6F26-4A56-9E14-5AE8AF6E7D4D}|Oreach.csproj|C:\\_kodcode2\\visual studio\\Oreach\\formfoodshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{770354D3-6F26-4A56-9E14-5AE8AF6E7D4D}|Oreach.csproj|solutionrelative:formfoodshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770354D3-6F26-4A56-9E14-5AE8AF6E7D4D}|Oreach.csproj|C:\\_kodcode2\\visual studio\\Oreach\\formfoodshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770354D3-6F26-4A56-9E14-5AE8AF6E7D4D}|Oreach.csproj|solutionrelative:formfoodshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770354D3-6F26-4A56-9E14-5AE8AF6E7D4D}|Oreach.csproj|C:\\_kodcode2\\visual studio\\Oreach\\formfoodshow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770354D3-6F26-4A56-9E14-5AE8AF6E7D4D}|Oreach.csproj|solutionrelative:formfoodshow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770354D3-6F26-4A56-9E14-5AE8AF6E7D4D}|Oreach.csproj|C:\\_kodcode2\\visual studio\\Oreach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770354D3-6F26-4A56-9E14-5AE8AF6E7D4D}|Oreach.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\_kodcode2\\visual studio\\Oreach\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\_kodcode2\\visual studio\\Oreach\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:19:28.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\_kodcode2\\visual studio\\Oreach\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\_kodcode2\\visual studio\\Oreach\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAhwBkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:15:37.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "formFoodShow.Designer.cs",
+              "DocumentMoniker": "C:\\_kodcode2\\visual studio\\Oreach\\formFoodShow.Designer.cs",
+              "RelativeDocumentMoniker": "formFoodShow.Designer.cs",
+              "ToolTip": "C:\\_kodcode2\\visual studio\\Oreach\\formFoodShow.Designer.cs",
+              "RelativeToolTip": "formFoodShow.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T13:10:30.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "formFoodShow.cs",
+              "DocumentMoniker": "C:\\_kodcode2\\visual studio\\Oreach\\formFoodShow.cs",
+              "RelativeDocumentMoniker": "formFoodShow.cs",
+              "ToolTip": "C:\\_kodcode2\\visual studio\\Oreach\\formFoodShow.cs",
+              "RelativeToolTip": "formFoodShow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T13:10:18.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "formFoodShow.cs [Design]",
+              "DocumentMoniker": "C:\\_kodcode2\\visual studio\\Oreach\\formFoodShow.cs",
+              "RelativeDocumentMoniker": "formFoodShow.cs",
+              "ToolTip": "C:\\_kodcode2\\visual studio\\Oreach\\formFoodShow.cs [Design]",
+              "RelativeToolTip": "formFoodShow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:54:49.124Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\_kodcode2\\visual studio\\Oreach\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\_kodcode2\\visual studio\\Oreach\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:35:35.986Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

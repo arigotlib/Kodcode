@@ -1,0 +1,23 @@
+C:\Users\User\source\repos\TameClack\bin\Debug\TameClack.exe.config
+C:\Users\User\source\repos\TameClack\bin\Debug\TameClack.exe
+C:\Users\User\source\repos\TameClack\bin\Debug\TameClack.pdb
+C:\Users\User\source\repos\TameClack\obj\Debug\TameClack.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TameClack\obj\Debug\TameClack.Form1.resources
+C:\Users\User\source\repos\TameClack\obj\Debug\TameClack.Properties.Resources.resources
+C:\Users\User\source\repos\TameClack\obj\Debug\TameClack.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TameClack\obj\Debug\TameClack.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TameClack\obj\Debug\TameClack.exe
+C:\Users\User\source\repos\TameClack\obj\Debug\TameClack.pdb
+C:\Users\User\source\repos\TameClack\obj\Debug\TameClack.ChangePassu.resources
+C:\_kodcode2\visual studio\TameClack\bin\Debug\TameClack.exe.config
+C:\_kodcode2\visual studio\TameClack\bin\Debug\TameClack.exe
+C:\_kodcode2\visual studio\TameClack\bin\Debug\TameClack.pdb
+C:\_kodcode2\visual studio\TameClack\obj\Debug\TameClack.csproj.AssemblyReference.cache
+C:\_kodcode2\visual studio\TameClack\obj\Debug\TameClack.ChangePassu.resources
+C:\_kodcode2\visual studio\TameClack\obj\Debug\TameClack.Form1.resources
+C:\_kodcode2\visual studio\TameClack\obj\Debug\TameClack.lurning.resources
+C:\_kodcode2\visual studio\TameClack\obj\Debug\TameClack.Properties.Resources.resources
+C:\_kodcode2\visual studio\TameClack\obj\Debug\TameClack.csproj.GenerateResource.cache
+C:\_kodcode2\visual studio\TameClack\obj\Debug\TameClack.csproj.CoreCompileInputs.cache
+C:\_kodcode2\visual studio\TameClack\obj\Debug\TameClack.exe
+C:\_kodcode2\visual studio\TameClack\obj\Debug\TameClack.pdb

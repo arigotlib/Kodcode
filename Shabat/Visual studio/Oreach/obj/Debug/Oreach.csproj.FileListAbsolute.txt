@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Oreach\bin\Debug\Oreach.exe.config
+C:\Users\User\source\repos\Oreach\bin\Debug\Oreach.exe
+C:\Users\User\source\repos\Oreach\bin\Debug\Oreach.pdb
+C:\Users\User\source\repos\Oreach\obj\Debug\Oreach.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Oreach\obj\Debug\Oreach.Form1.resources
+C:\Users\User\source\repos\Oreach\obj\Debug\Oreach.formFoodShow.resources
+C:\Users\User\source\repos\Oreach\obj\Debug\Oreach.Properties.Resources.resources
+C:\Users\User\source\repos\Oreach\obj\Debug\Oreach.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Oreach\obj\Debug\Oreach.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Oreach\obj\Debug\Oreach.exe
+C:\Users\User\source\repos\Oreach\obj\Debug\Oreach.pdb

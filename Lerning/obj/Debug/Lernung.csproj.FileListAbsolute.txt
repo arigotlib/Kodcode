@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\Lernung\bin\Debug\Lernung.exe.config
+C:\Users\User\source\repos\Lernung\bin\Debug\Lernung.exe
+C:\Users\User\source\repos\Lernung\bin\Debug\Lernung.pdb
+C:\Users\User\source\repos\Lernung\obj\Debug\Lernung.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lernung\obj\Debug\Lernung.Form1.resources
+C:\Users\User\source\repos\Lernung\obj\Debug\Lernung.Properties.Resources.resources
+C:\Users\User\source\repos\Lernung\obj\Debug\Lernung.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lernung\obj\Debug\Lernung.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lernung\obj\Debug\Lernung.exe
+C:\Users\User\source\repos\Lernung\obj\Debug\Lernung.pdb
+C:\_kodcode2\visual studio\Lerning\bin\Debug\Lernung.exe.config
+C:\_kodcode2\visual studio\Lerning\bin\Debug\Lernung.exe
+C:\_kodcode2\visual studio\Lerning\bin\Debug\Lernung.pdb
+C:\_kodcode2\visual studio\Lerning\obj\Debug\Lernung.csproj.AssemblyReference.cache
+C:\_kodcode2\visual studio\Lerning\obj\Debug\Lernung.Form1.resources
+C:\_kodcode2\visual studio\Lerning\obj\Debug\Lernung.Properties.Resources.resources
+C:\_kodcode2\visual studio\Lerning\obj\Debug\Lernung.csproj.GenerateResource.cache
+C:\_kodcode2\visual studio\Lerning\obj\Debug\Lernung.csproj.CoreCompileInputs.cache
+C:\_kodcode2\visual studio\Lerning\obj\Debug\Lernung.exe
+C:\_kodcode2\visual studio\Lerning\obj\Debug\Lernung.pdb

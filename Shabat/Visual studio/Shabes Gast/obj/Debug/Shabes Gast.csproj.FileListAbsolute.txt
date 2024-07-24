@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\Shabes Gast\bin\Debug\Shabes Gast.exe.config
+C:\Users\User\source\repos\Shabes Gast\bin\Debug\Shabes Gast.exe
+C:\Users\User\source\repos\Shabes Gast\bin\Debug\Shabes Gast.pdb
+C:\Users\User\source\repos\Shabes Gast\obj\Debug\Shabes Gast.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Shabes Gast\obj\Debug\Shabes_Gast.Form1.resources
+C:\Users\User\source\repos\Shabes Gast\obj\Debug\Shabes_Gast.Properties.Resources.resources
+C:\Users\User\source\repos\Shabes Gast\obj\Debug\Shabes Gast.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Shabes Gast\obj\Debug\Shabes Gast.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Shabes Gast\obj\Debug\Shabes Gast.exe
+C:\Users\User\source\repos\Shabes Gast\obj\Debug\Shabes Gast.pdb
+C:\Users\User\source\repos\Shabes Gast\obj\Debug\Shabes_Gast.Form2.resources
+C:\_kodcode2\visual studio\Shabes Gast\bin\Debug\Shabes Gast.exe.config
+C:\_kodcode2\visual studio\Shabes Gast\bin\Debug\Shabes Gast.exe
+C:\_kodcode2\visual studio\Shabes Gast\bin\Debug\Shabes Gast.pdb
+C:\_kodcode2\visual studio\Shabes Gast\obj\Debug\Shabes Gast.csproj.AssemblyReference.cache
+C:\_kodcode2\visual studio\Shabes Gast\obj\Debug\Shabes_Gast.Form1.resources
+C:\_kodcode2\visual studio\Shabes Gast\obj\Debug\Shabes_Gast.Form2.resources
+C:\_kodcode2\visual studio\Shabes Gast\obj\Debug\Shabes_Gast.Properties.Resources.resources
+C:\_kodcode2\visual studio\Shabes Gast\obj\Debug\Shabes Gast.csproj.GenerateResource.cache
+C:\_kodcode2\visual studio\Shabes Gast\obj\Debug\Shabes Gast.csproj.CoreCompileInputs.cache
+C:\_kodcode2\visual studio\Shabes Gast\obj\Debug\Shabes Gast.exe
+C:\_kodcode2\visual studio\Shabes Gast\obj\Debug\Shabes Gast.pdb
